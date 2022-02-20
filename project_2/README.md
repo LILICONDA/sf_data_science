@@ -2,9 +2,13 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/LILICONDA/sf_data_science/tree/main/project_2/README.md#Описание-проекта)
+
 [2. Какой кейс решаем](https://github.com/LILICONDA/sf_data_science/tree/main/project_2/README.md#Какой-кейс-решаем)
+
 [3. Краткая информация о данных](https://github.com/LILICONDA/sf_data_science/tree/main/project_2/README.md#Краткая-информация-о-данных)
+
 [4. Этапы работы над проектом](https://github.com/LILICONDA/sf_data_science/tree/main/project_2/README.md#Этапы-работы-над-проектом)
+
 [5. Выводы](https://github.com/LILICONDA/sf_data_science/tree/main/project_2/README.md#Выводы)
 
 ### Описание проекта
