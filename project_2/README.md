@@ -23,7 +23,9 @@
 4. Очистка данных
 
 ### Краткая информация о данных
-GitHub не позволяет выложить в репозиторий датасет, размер которого превышает 25 Мб. Файл с данными весит более 450 Мб. Поэтому он добавлен в .gitignore. Файл с данными выложен на Google Диск: https://drive.google.com/drive/folders/1UVqB5ACtG-aqX3IqvGsUh7Qc4gaDW33f?usp=sharing
+1. GitHub не позволяет выложить в репозиторий датасет, размер которого превышает 25 Мб. Файл с данными весит более 450 Мб. Поэтому он добавлен в .gitignore. Файл с данными выложен на Google Диск: https://drive.google.com/drive/folders/1UVqB5ACtG-aqX3IqvGsUh7Qc4gaDW33f?usp=sharing
+
+2. GitHub не поддерживает отображение интерактивной визуализации в Plotly. Графики, построенные с помощью Plotly, могут не отображаться на странице репозитория. Для того, чтобы посмотреть графики: помимо сохраненных графиков в формате HTML в папке graph, также предоставляется ссылка на Notebook on nbviewer: https://nbviewer.org/github/LILICONDA/sf_data_science/blob/main/project_2/Project_hh.ipynb
 
 
 ### Этапы работы над проектом
