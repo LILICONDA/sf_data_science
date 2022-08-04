@@ -20,8 +20,7 @@
 Необходимо обучить две модели: логистическую регрессию и случайный лес. Далее нужно сделать подбор гиперпараметров с помощью базовых и продвинутых методов оптимизации. Важно использовать все четыре метода (GridSeachCV, RandomizedSearchCV, Hyperopt, Optuna) хотя бы по разу, максимальное количество итераций не должно превышать 50.
 
 ### Краткая информация о данных
-GitHub не поддерживает отображение интерактивной визуализации в Plotly. Графики, построенные с помощью Plotly, могут не отображаться на странице репозитория. Для того, чтобы посмотреть графики предоставляется ссылка на Notebook on nbviewer: https://nbviewer.org/github/LILICONDA/sf_data_science/blob/main/Predicting a Biological Response/Predicting a Biological Response.ipynb
-
+GitHub не поддерживает отображение интерактивной визуализации в Plotly. Графики, построенные с помощью Plotly, могут не отображаться на странице репозитория. Для того, чтобы посмотреть графики предоставляется ссылка на Notebook on nbviewer: https://nbviewer.org/github/LILICONDA/sf_data_science/blob/main/Predicting_a_Biological_Response/Predicting_a_Biological_Response.ipynb
 
 ### Этапы работы над проектом
 1. Обучение двух моделей: логистичекой регрессии и случайного леса (использование кросс-валидации).
